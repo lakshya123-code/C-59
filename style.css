@@ -1,0 +1,20 @@
+body{ text-align: center;
+  background:linear-gradient(#03fcc6 0%, #4a03fc 100%);
+}
+h1{
+  font size:20px;
+}
+#bio{
+  padding:90px;
+    font size:20px;
+    text-align: center;
+}
+img { width:200px;
+    height:200px; border-radius: 30px;
+}
+p{
+    font-size: 100px;
+}
+html{
+    scroll-behavior: smooth;
+}
